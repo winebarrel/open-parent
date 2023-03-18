@@ -16,6 +16,7 @@
     "name": "Genki Sugawara",
     "email": "sugawara@winebarrel.jp"
   },
+  "publisher": "winebarrel",
   "license": "MIT",
   "activationEvents": [],
   "main": "./out/extension.js",
