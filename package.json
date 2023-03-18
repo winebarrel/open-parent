@@ -1,14 +1,22 @@
 {
   "name": "open-parent",
   "displayName": "open-parent",
-  "description": "",
-  "version": "0.0.1",
+  "description": "VS Code extension to open parent folder of current workspace.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/winebarrel/open-parent"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
   "categories": [
     "Other"
   ],
+  "author": {
+    "name": "Genki Sugawara",
+    "email": "sugawara@winebarrel.jp"
+  },
+  "license": "MIT",
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
